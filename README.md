@@ -1,7 +1,11 @@
-# react-native-material-bottom-tabs
-MaterialBottomTabNavigator that you can swipe between, each tab can have its own Ui screens and maintain its own scroll position between swipes.
-# modal 
-<p>
-  <img src="https://user-images.githubusercontent.com/54661517/83018117-5d310200-a042-11ea-855d-08c2f0f01e8a.jpg" width="250" title="hover text">
-  <img src="https://user-images.githubusercontent.com/54661517/83018189-7d60c100-a042-11ea-8525-f5d95271bdb9.jpg" width="250" alt="accessibility text">
-</p>
+# Sample Snack app
+
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
